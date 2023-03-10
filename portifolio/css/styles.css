@@ -238,3 +238,97 @@ hr {
 a:hover {
   color: #11999e;
 }
+@media only screen and (max-width: 768px) {
+  
+
+  nav {
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+  }
+
+  nav ul {
+    display: flex;
+    flex-direction: column;
+  }
+  .skills {
+    display: flex;
+    flex-direction: column;
+    
+  }
+
+  .skill-row1 {
+    margin:  20px;
+    width: 500px;
+  }
+  .skill-row2 {
+    margin: 20px;
+    width: 500px;
+   
+  
+    
+  }
+  .skill-row3 {
+    margin: 20px;
+    width: 500px;
+  
+    
+  }
+  .profile {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .jems {
+    width: 300px;
+    margin-left: 150px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  
+
+  nav {
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+  }
+
+  nav ul {
+    display: flex;
+    flex-direction: column;
+  }
+  .skills {
+    display: flex;
+    flex-direction: column;
+    
+  }
+
+  .skill-row1 {
+    margin:  20px;
+    width: 500px;
+  }
+  .skill-row2 {
+    margin: 20px;
+    width: 500px;
+   
+  
+    
+  }
+  .skill-row3 {
+    margin: 20px;
+    width: 500px;
+  
+    
+  }
+  .profile {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .jems {
+    width: 300px;
+    margin-left: 150px;
+  }
+}
+
